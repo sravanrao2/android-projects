@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/ryagasanjay/POS" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/sravanrao2/Go-cart" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\sravan" />
+    <option name="cloneParentDir" value="C:\Users\sravan\Desktop" />
   </component>
 </application>
